@@ -1,6 +1,4 @@
-# cv-ilenia_cosmai
-
-# Curriculum Vitae
+# Curriculum Vitae 
 
 ## Informazioni personali
 
