@@ -5,7 +5,7 @@
 - **Nome**: COSMAI ILENIA
 - **Indirizzo**: VIA A.GENTILESCHI 9
 - **Telefono**: 3898917189
-- **E-mail**: ilenia.cosmai296@gmail.com
+- **E-mail**:ilenia.cosmai296@gmail.com
 - **Nazionalità**: Italiana
 - **Data di nascita**: 06/11/1996
 
@@ -49,6 +49,9 @@
 ## Conoscenze informatiche
 
 - Buona conoscenza di Office, Posta elettronica e web
+
+## Link utili
+Per visitare la mia repository, clicca [qui] (https://ilenia06.github.io/cv-ilenia_cosmai/).
 
 ## Ulteriori informazioni
 
