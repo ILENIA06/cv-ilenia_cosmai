@@ -50,9 +50,6 @@
 
 - Buona conoscenza di Office, Posta elettronica e web
 
-## Link utili
-Per visitare la mia repository, clicca [qui] (https://ilenia06.github.io/cv-ilenia_cosmai/).
-
 ## Ulteriori informazioni
 
 - Automunito - Patente B
