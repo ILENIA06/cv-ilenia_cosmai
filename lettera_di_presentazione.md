@@ -8,7 +8,7 @@ Email: ilenia.cosmai296@gmail.com
 
 Sono Ilenia Cosmai, un'appassionata programmatrice con una solida formazione nel settore del turismo e delle lingue straniere, unita a una recente specializzazione come Web Developer. Mi candido per posizioni di programmatrice, convinta che la mia combinazione di competenze tecniche e capacità comunicative possa contribuire significativamente a un team innovativo.
 
-Durante il mio percorso formativo, ho approfondito framework come Laravel e sviluppato competenze in JavaScript, HTML e CSS. Le mie esperienze lavorative come operatrice di call center mi hanno permesso di affinare le mie capacità relazionali e di comunicazione, elementi essenziali per lavorare in team.
+Durante il mio percorso formativo, ho approfondito framework come Laravel e sviluppato competenze in JavaScript, HTML,PHP e CSS. Le mie esperienze lavorative come operatrice di call center mi hanno permesso di affinare le mie capacità relazionali e di comunicazione, elementi essenziali per lavorare in team.
 
 Sono entusiasta all'idea di affrontare nuove sfide e sono motivata a contribuire a progetti innovativi in un contesto dinamico. La mia flessibilità e rapidità di apprendimento mi consentono di adattarmi facilmente a nuove tecnologie e metodologie di lavoro.
 
